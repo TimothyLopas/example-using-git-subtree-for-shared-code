@@ -1,4 +1,4 @@
-# Use Git submodule for shared robot code
+# Use Git subtree for shared robot code
 
 This example robot code repository includes another robot repository (https://github.com/robocorp/example-shared-robot-framework-keywords-and-libraries) as a Git subtree.
 
