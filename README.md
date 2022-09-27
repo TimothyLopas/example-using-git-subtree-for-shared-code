@@ -10,5 +10,8 @@ The robot includes the shared robot code from the other repository as a Git subt
 
 The shared Git subtree in this project was created with the git subtree add command:
 
+```bash
 git subtree add --prefix shared https://github.com/robocorp/example-shared-robot-framework-keywords-and-libraries.git main --squash 
+```
+
 A new directory is now created in this repository called `shared` that contains a copy of the "example-shared-robot-framework-keywords-and-libraries" repository.
